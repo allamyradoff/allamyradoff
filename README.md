@@ -7,6 +7,9 @@
 
 Latest YouTube
 
-Languages and Tools
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5FB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47c5FB)
+
 
 Follow me
