@@ -25,6 +25,6 @@ Follow me
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-"<p aling=center>"
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
