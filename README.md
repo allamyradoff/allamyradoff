@@ -21,10 +21,12 @@ Latest YouTube
 
 Follow me
 
+<p align="center">
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
