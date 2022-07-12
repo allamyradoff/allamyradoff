@@ -1,6 +1,6 @@
 [![Header](https://github.com/allamyradoff/allamyradoff/blob/main/assets/Sanly%20acar%20logo.jpg)](https://www.sanly-achar.com/)
 
-## SanlyAçar
+## SanlyAçar 
 ## Разработка и Дизайн Веб Сайтов
 ## Разработка мобильный приложений.
 ## Таргетированное реклама
@@ -15,8 +15,16 @@ Latest YouTube
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=#000)
 ![DRF](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=DRF&logoColor=#000)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=#000)
-![React.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=#000)
+![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React.js&logoColor=#000)
 
 
 
 Follow me
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
