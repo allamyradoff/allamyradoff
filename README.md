@@ -4,43 +4,8 @@
 
 
 
-## SanlyAçar 
-## Разработка и Дизайн Веб Сайтов
-## Разработка мобильный приложений.
-## Таргетированное реклама
-
-
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-Latest YouTube
 
 ### Languages and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5FB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#efd81d)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47c5FB)
-![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=#000)
-![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=#000)
-![DRF](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=DRF&logoColor=#000)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=#000)
-![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React.js&logoColor=#000)
-
-
-
-
-Наша команда
-
-
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=gotham" alt="allamyradoff
-" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=gotham" alt="allamyradoff
-" />
-
-
-  
-  
-## **<u>My Tech Stack</u>**
 ### Front End
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%#3178C6) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%2335495e.svg?style=for-the-badge&logo=bootstrap&logoColor=%234FC08D) ![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=%CC6699) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2335495e.svg?style=for-the-badge&logo=tailwindcss&logoColor=%234FC08D) ![Cypress](https://img.shields.io/badge/cypress-black.svg?style=for-the-badge&logo=cypress&logoColor=%#17202C)<br/>
@@ -65,6 +30,26 @@ Latest YouTube
 ### Agile & Version Control
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Coda](https://img.shields.io/badge/coda-%6162234.svg?style=for-the-badge&logo=coda&logoColor=white) ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230A0FFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Gitlab](https://img.shields.io/badge/gitlab-%23E34F11.svg?style=for-the-badge&logo=gitlab&logoColor=white) <br/>
+
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+
+Наша команда
+
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=gotham" alt="allamyradoff
+" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=gotham" alt="allamyradoff
+" />
+
+
+  
+  
+## **<u>My Tech Stack</u>**
 
 
 
