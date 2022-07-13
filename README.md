@@ -30,8 +30,10 @@ Follow me
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=gotham" alt="allamyradoff
+" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=gotham" alt="allamyradoff
+" />
 
 
 
