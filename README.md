@@ -1,13 +1,13 @@
 [![Header](https://github.com/allamyradoff/allamyradoff/blob/main/assets/Sanly%20acar%20logo.jpg)](https://www.sanly-achar.com/)
 
 
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ## SanlyAçar 
 ## Разработка и Дизайн Веб Сайтов
 ## Разработка мобильный приложений.
 ## Таргетированное реклама
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 
 
 Latest YouTube
