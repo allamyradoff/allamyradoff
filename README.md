@@ -21,6 +21,7 @@ Latest YouTube
 ![DRF](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=DRF&logoColor=#000)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=#000)
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React.js&logoColor=#000)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=#000)
 
 
 
