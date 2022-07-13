@@ -32,7 +32,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Coda](https://img.shields.io/badge/coda-%6162234.svg?style=for-the-badge&logo=coda&logoColor=white) ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230A0FFF.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Gitlab](https://img.shields.io/badge/gitlab-%23E34F11.svg?style=for-the-badge&logo=gitlab&logoColor=white) <br/>
 
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ![snake gif](https://github.com/VladimirOlishevsky/VladimirOlishevsky/blob/output/github-contribution-grid-snake.gif)
 
