@@ -21,19 +21,20 @@ Latest YouTube
 ![DRF](https://img.shields.io/badge/-DRF-090909?style=for-the-badge&logo=DRF&logoColor=#000)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=#000)
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React.js&logoColor=#000)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=#000)
+
 
 
 
 Follow me
 
-<p align="center">
-   //[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
   
