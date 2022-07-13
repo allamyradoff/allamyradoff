@@ -3,12 +3,14 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ## SanlyAçar 
 ## Разработка и Дизайн Веб Сайтов
 ## Разработка мобильный приложений.
 ## Таргетированное реклама
 
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 Latest YouTube
 
@@ -25,7 +27,7 @@ Latest YouTube
 
 
 
-Follow me
+Наша команда
 
 
 
