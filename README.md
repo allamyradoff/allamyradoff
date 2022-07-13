@@ -1,9 +1,14 @@
 [![Header](https://github.com/allamyradoff/allamyradoff/blob/main/assets/Sanly%20acar%20logo.jpg)](https://www.sanly-achar.com/)
 
+
 ## SanlyAçar 
 ## Разработка и Дизайн Веб Сайтов
 ## Разработка мобильный приложений.
 ## Таргетированное реклама
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 
 Latest YouTube
 
@@ -30,4 +35,4 @@ Follow me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
