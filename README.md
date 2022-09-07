@@ -34,13 +34,6 @@
 
 ![snake gif](https://github.com/VladimirOlishevsky/VladimirOlishevsky/blob/output/github-contribution-grid-snake.gif)
 
-Наша команда
-
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yazkhanov93&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bayramgeldiyevich&show_icons=true&theme=radical" />
-</p>
 
 
 
